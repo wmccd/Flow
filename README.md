@@ -1,4 +1,4 @@
-#Flow
+# Flow
 
 A flow is a stream of values that are computed asynchronously. These values can be collected as they arrive at the end of the flow. *collect* for Flow is like *forEach* for collections.
 
